@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+<!--为echarts准备一个具备大小的容器dom-->
+<div id="container" class="container" style="">
+    <div class="topBanner">
+
+        <div class="icon-search" v-on:click="isShow=true"></div>
+        <div class="showBox" v-show="isShow">
+        <input type="text" value="" v-model="targetName" placeholder="请输入你想查找的数据名称">
+        <img class="icon" src="img/close.png" v-on:click="isShow=false">
+        <ul>
+            <li v-for="name in nameList" v-on:click="showChartBySearch(name)">
+                {{name}}
+            </li>
+        </ul>
+        </div>
+    </div>
+    <div id="myChart" ref="myChart" style="width: 700px;height: 600px;margin: 10px auto;"></div>
+</div>
+
+<script src="js/vue.js"></script>
+<script src="js/axios.min.js"></script>
+<script src="js/echarts.js"></script>
+<script src="js/index.js"></script>
+
+</body>
+</html>
