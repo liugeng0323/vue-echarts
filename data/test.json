@@ -1,0 +1,136 @@
+{
+  "charts": [
+    {
+      "id": "2017111301",
+      "name": "daikon",
+      "gains":0.15,
+      "ignored": "ENABLE"
+    },
+    {
+      "id": "2017111302",
+      "name": "spinach",
+      "gains":0.17,
+      "ignored": "DISABLE"
+    },
+    {
+      "id": "2017111303",
+      "name": "peas",
+      "gains":0.22,
+      "ignored": "DISABLE"
+    },
+    {
+      "id": "2017111304",
+      "name": "sprouts",
+      "gains":0.26,
+      "ignored": "ENABLE"
+    },
+    {
+      "id": "2017111305",
+      "name": "carrot",
+      "gains":0.37,
+      "ignored": "ENABLE"
+    },
+    {
+      "id": "2017111306",
+      "name": "cucumber",
+      "gains":0.38,
+      "ignored": "DISABLE"
+    },
+    {
+      "id": " 2017111307",
+      "name": "kennel",
+      "gains":0.39,
+      "ignored": "DISABLE"
+    },
+    {
+      "id": " 2017111308",
+      "name": "ginger",
+      "gains":0.40,
+      "ignored": "DISABLE"
+    },
+    {
+      "id": " 2017111309",
+      "name": "cowpeas",
+      "gains":0.41,
+      "ignored": "ENABLE"
+    },
+    {
+      "id": " 2017111310",
+      "name": "rutabaga",
+      "gains":0.45,
+      "ignored": "DISABLE"
+    },
+    {
+      "id": " 2017111311",
+      "name": "chives",
+      "gains":0.48,
+      "ignored": "DISABLE"
+    },
+    {
+      "id": " 2017111312",
+      "name": "fiddlehead",
+      "gains":0.53,
+      "ignored": "ENABLE"
+    },
+    {
+      "id": " 2017111313",
+      "name": "chilly",
+      "gains":0.55,
+      "ignored": "DISABLE"
+    },
+    {
+      "id": " 2017111314",
+      "name": "waternuts",
+      "gains":0.59,
+      "ignored": "ENABLE"
+    },
+    {
+      "id": " 2017111315",
+      "name": "asparagus",
+      "gains":0.66,
+      "ignored": "DISABLE"
+    },
+    {
+      "id": " 2017111316",
+      "name": "pumpkin",
+      "gains":0.69,
+      "ignored": "ENABLE"
+    },
+    {
+      "id": " 2017111317",
+      "name": "eggplant",
+      "gains":0.73,
+      "ignored": "ENABLE"
+    },
+    {
+      "id": " 2017111318",
+      "name": "yam",
+      "gains":0.81,
+      "ignored": "DISABLE"
+    },
+    {
+      "id": " 2017111319",
+      "name": "lettuce",
+      "gains":0.82,
+      "ignored": "DISABLE"
+    },
+    {
+      "id": " 2017111320",
+      "name": "beet",
+      "gains":0.91,
+      "ignored": "DISABLE"
+    },
+    {
+      "id": " 2017111321",
+      "name": "broccoli",
+      "gains":0.97,
+      "ignored": "ENABLE"
+    },
+    {
+      "id": "2017111322",
+      "name": "cabbage",
+      "gains":1,
+      "ignored": "DISABLE"
+    }
+  ]
+}
